@@ -1,0 +1,46 @@
+.title {
+ color: blue;
+ display: flex;
+ border-style: solid;
+ border-color: black;
+
+    }
+
+    .title h1 {
+        border-color: black;
+        font-size: 50px;
+        
+    }
+
+.nav {
+    display: flex;
+    padding-bottom: 100px;
+    align-items: center;
+    padding-left: 59.9%;
+}
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: blue;
+      }
+
+    
